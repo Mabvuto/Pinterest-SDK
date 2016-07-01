@@ -1,7 +1,6 @@
 # Pinterest-SDKtarget 'MyApp' do
   pod 'AFNetworking', '~> 3.0'
 end
-An example of a more complex Podfile linking an app and its test bundle:
 source 'https://github.com/CocoaPods/Specs.git'
 source 'https://github.com/Artsy/Specs.git'
 
